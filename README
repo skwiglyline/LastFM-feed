@@ -1,0 +1,21 @@
+/*********************************
+	LastFM feed
+*********************************/
+
+This is a Feed that calls in 3 different types of feeds from the lastFM api
+
+1. Most recently listend to tracks
+2. Top Tracks
+3. Top Artists
+
+and then view then apply a date restriction to the returned results:
+
+Overall
+1 Year
+6 months
+3 months
+7 days
+
+You are able to set up your lastFM user name and also set the pre selected time period to display.
+
+There is also a text box for visitors to input their own lastFM user name and view their results on the page.
